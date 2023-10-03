@@ -4,7 +4,7 @@
 
 <h1 align="center">Clase de Estructuras de Datos</h1>
 <h3 align="center">Profesor: <a href="https://github.com/JuanS3">Sebastián Martínez</a></h3>
-<h3 align="center">Alumno: <a href="https://github.com/CtrlJason">Yeison David Mosquera</a></h3>
+<h3 align="center">Alumno: <a href="https://github.com/CtrlJason">Yeison David Mosquera Murillo</a></h3>
 
 
 <p align="center">
